@@ -1,0 +1,8 @@
+Validation completed:
+- app.js and catalog.js passed Node.js syntax checks.
+- All 57 catalogue product images exist locally.
+- All 10 source categories retained.
+- Homepage local asset/script/stylesheet references resolved.
+- No PHP blocks remain in index.html.
+
+Limit: browser visual and interaction testing could not run because the available browser runtime was missing and its download failed. Please preview desktop/mobile layout and try search, filters, product dialogs and bag in your browser before publishing.
